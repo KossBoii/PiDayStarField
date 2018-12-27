@@ -1,1 +1,1 @@
-#H1 Pi Day Star Field Project
+# Pi Day Star Field Project
